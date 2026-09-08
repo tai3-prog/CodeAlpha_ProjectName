@@ -1,6 +1,0 @@
-```text
-numpy
-pandas
-matplotlib
-scikit-learn
-```
